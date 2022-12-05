@@ -16,4 +16,4 @@ for x in range(10, k+1): # the x value is in the range of 10 to k+1
         if z_pow < ans and ans <  z1_pow: # if ans is in between z_pow and z1_pow
             miss=min((ans-z_pow),(z_pow-ans))
             r_miss=miss/ans
-            print(f"x is {x} y is {y} z is {z}  and relative miss is {r_miss}") # then print the value of x ,y , and relative missof 3 possible iterations
+            print(f"x is {x} y is {y} z is {z}  and relative miss is {r_miss}") # then print the value of x ,y , and relative missof 3 possible iterations)
